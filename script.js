@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 { src: "images/tangoPinyin1.jpg", caption: "ピンイン入力にチェックを入れるとピンイン入力モードになります。ピンイン入力欄が現れます。" },
                 { src: "images/tangoPinyin2.jpg", caption: "ピンイン入力されたものが正しいかチェックします。" },
             ],
-            appUrl: " https://tamagenai.github.io/chongshi26/" // あなたのアプリ2への実際のURLに置き換えてください
+            appUrl: " https://tamagenai.github.io/BANBANtango/" // あなたのアプリ2への実際のURLに置き換えてください
         },
         {
             id: "sentence-builder", // 例: アプリ3のID
