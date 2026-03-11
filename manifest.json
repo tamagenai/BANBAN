@@ -1,7 +1,7 @@
 {
-  "name": "バンバン中国語学習アプリ紹介",
-  "short_name": "棒棒！中国語",
-  "description": "バンバン中国語学習Webアプリを紹介するページです。",
+  "name": "じわじわ身につく中国語学習アプリ紹介",
+  "short_name": "じわじわ！中国語",
+  "description": "じわじわ身につく中国語学習Webアプリを紹介するページです。",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
